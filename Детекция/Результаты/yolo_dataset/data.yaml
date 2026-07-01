@@ -1,0 +1,13 @@
+names:
+- Автобус
+- Внедорожник
+- Грузовик
+- Легковой автомобиль
+- Мотоцикл
+- Рабочая техника
+- Фургон
+nc: 7
+path: C:\Users\Veretelnik\Listing\yolo_dataset
+test: test/images
+train: train/images
+val: val/images

@@ -485,7 +485,7 @@ pip install -r requirements.txt
 - [PyTorch Docs](https://pytorch.org/docs/stable/index.html)
 
 
-## 📄 Лицензия
+## Лицензия
 
 Этот проект создан для внутреннего использования и исследовательских целей.
 
